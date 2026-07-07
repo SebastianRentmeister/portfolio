@@ -29,7 +29,7 @@
 1. Wo werden die Favoriten angezeigt?
 
 2. Woran erkennt man, dass ein Produkt favorisiert wurde?
-
+Antwort: 
 3. Bleiben Favoriten gespeichert wenn man sich ausloggt?
 ### *Produktsuche mit Sortierfunktion* ###
 1. Nach welchen Kriterien kann sortiert werden?
