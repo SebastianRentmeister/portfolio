@@ -38,4 +38,19 @@ Antwort:
 
 3. Können mehrere Filterkriterien ausgewähl werden um die Suche einzuschränken?
 
+## *Fragen für neue Features* ##
 
+- Bewertungssystem für Produkte
+1. Können alle Nutzer Produkte bewerten oder nur Nutzer die  das Produkt auch gekauft haben?
+2. Gibt es eine Zeichenbegrenzung für das schriftliche Feedback?
+3. Ist ein schriftliches Feedback zwingend um die Bewertung abschicken zu können?
+4. Wird nach Kauf des Produktes auf das Bewertungssystem hingewiesen? 
+5. Wo werden die Bewertungen angezeigt?
+- Altersverifikation für alkoholische Produkte
+1. Was passiert wenn ein Nutzer unter 18 Jahre alt ist?
+2. Wie wird das Alter verifiziert bzw. gibt es eine Altersverifizierung?
+3. Erscheint das Fenster bei Registrierten Nutzern einmalig oder wird es immer nach Login abgefragt?
+- Änderungen bei den Versandkosten
+1. Ab welchem Bestellwert ist der Versand kostenlos?
+2. Gibt es diesbezüglich einen Hinweis und wenn ja, wo?
+3. Gilt der kostenlose Versand auch außerhalb Deutschlands?
