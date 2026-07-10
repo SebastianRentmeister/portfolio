@@ -17,6 +17,7 @@
 - Im unteren Bereich werden 6 Zahlungsmethoden angeboten (Visa, Google Pay, Apple Pay, Mastercard, Amex, ?)
 4. Wie wählt der Benutzer die gewünschte Zahlungsmethode aus?
 - eine Auswahlmöglichkeit für die verschiedenen Zahlungsmethoden ist nicht erkennbar. Es steht jedeglich ein Kreditkartenformular zur Verfügung. 
+
 ### *Produkte in den Warenkorb legen* ###
 1. Gibt es eine Meldung wenn ein Produkt ausverkauft ist?
 - Im Test konnten keine als ausverkauft markierten Produkte gefunden werden. 
