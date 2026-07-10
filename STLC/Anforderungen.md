@@ -8,7 +8,7 @@
 - Nein 
 3. Gibt es Einschränkungen für minderjährige Nutzer?
 - Um Alkoholische Produkte zu kaufen, muss man mindestens 18 Jahre alt sein.
-### *Bestellabschluss* ### 
+### *Bestellabschluss* ###
 1. Welche Versandarten gibt es?
 - Im Bestellformular ist keine Auswahl für Versandarten vorhanden. Daher ist nicht ersichtlich, welche Versandarten angeboten werden. 
 2. Sind Bestellungen aus dem Ausland möglich?
