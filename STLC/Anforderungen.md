@@ -3,9 +3,9 @@
 ## *Fragen* ##
 ### *Registrierung* ###
 1. Ist eine Registrierung notwendig oder kann man auch als Gast bestellen?
-- Eine Registrierung ist notwendig
+- Eine Registrierung ist notwendig.
 2. Gibt es ein Mindestalter für die Registrierung? 
-- Nein 
+- Nein.
 3. Gibt es Einschränkungen für minderjährige Nutzer?
 - Um Alkoholische Produkte zu kaufen, muss man mindestens 18 Jahre alt sein.
 ### *Bestellabschluss* ###
@@ -46,6 +46,14 @@
 - Pro Seite werden maximal 12 Produkte angezeigt. 
 3. Können mehrere Filterkriterien ausgewählt werden um die Suche einzuschränken?
 - Nein. 
+
+### Zusammenfassung ###
+- Auf Grocery Mate ist eine Registrierung notwendig um Bestellungen aufzugeben. Für die Registrierung gibt es keine Altersabfrage. Um Alkoholische Produkte bestellen zu können, muss man mindestens 18 Jahre alt sein. 
+- Bei Grocery Mate werden insgesamt 6 Bezahlfunktionen angeboten, jedoch war beim Test nicht ersichtlich, wie man die einzelnen Bezahlfunktionen auswählen kann. Im Bestellformular werden jedeglich Kreditkartendaten abgefragt. Ob es verschiedene Versandarten gibt, konnte durch das Testen nicht festgestellt werden, da das Bestellormular nicht abgeschickt werden konnte.Im Bestellformular gibt es keine Möglichkeit ein Land auszuwählen.  
+- Beim Testen wurden keine ausverkauften Produkte gefunden. Die Bestellmenge ist nicht limitiert-
+- Bei Eingabe der ersten Buchstaben des gesuchten Produktes, öffnet sich unter der Suchleiste eine Auswahl von passenden Produkten. Es gibt keinen Hinweis, wenn das Produkt im Shop nicht vorhanden ist. 
+- Auf Grocery Mate können Produkte mit einem Herz favorisiert werden. Ein favorisiertes Produkt wird mit einem blauen Herz gekennzeichnet (ersichtlich ganz rechts unter dem Produkt). Die Favoriten werden gespeichert und können über 2 unterschiedliche Menüpunkte aufgerufen werden. 
+- Es gibt die Möglichkeit Produkte im Shop zu kategorisieren. Auf der linken Navigationsseite werden verschiedene Produktkategorien angezeigt (u.a Fisch, Fleisch, Käse). Desweiteren gibt es die Möglichkeit sich alle Produkte anzeigen zu lassen. Auf der rechten Seite lässt sich die Auswahl nach Preis, Name oder beliebt filtern´. 
 
 ## *Fragen für neue Features* ##
 
