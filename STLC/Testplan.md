@@ -58,7 +58,31 @@ Risiken und Probleme:
 - **Fehlende Testdaten**
     
 → Gegenmaßnahme: Erstellen von Testdaten (Mock-Daten)
+(Test Nutzerkonten mit Geburtsdatum vor und nach 2008, Warenkörbe unter und über dem Grenzwert)
     
 - **Ressourcenengpässe**
     
 → Gegenmaßnahme: Ersatzpersonen identifizieren und einplanen
+
+### 3. Testziele definieren ###
+
+Funktionalität: 
+- Sicherstellen, dass die Altersprüfung Minderjährige blockiert
+- Ab dem Grenzwert sollen Versandkosten 0€ betragen 
+- Bewertungen werden korrekt gespeichert
+
+Benutzeroberfläche (GUI): 
+- Überprüfung, ob die neuen Eingabefelder (Geburtsdatum, Bewertungssterne, Feedback Eingabefeld) auf Smartphones und PCs fehlerfrei angezeigt werden.
+
+Benutzbarkeit (Usability): 
+- Testen, ob der Kunde ohne Anleitung versteht, wie er eine Bewertung abgibt und warum er sein Alter angeben muss.
+
+#### Erwartete Ergebnisse: ####
+
+- Minderjährige Nutzer bekommen eine Hinweismeldung, dass sie nicht zum Kauf berechtigt sind. 
+- Nutzer über 18 Jahre können alkoholische Produkte bestellen.
+- Ab einem festgelegten Grenzwert ist die Bestellung versandkostenfrei, eine Bestellung die unter dem Grenzwert liegt wird mit den jeweiligen Versandkosten berechnet.
+- Das Feedback ist nach dem Absenden für andere Nutzer ersichtlich und wird gespeichert.
+- Wenn der Nutzer kein Feedback hinterlässt und das Eingabefeld leer bleibt, wird darauf mit einer Meldung hingewiesen und die Bewertung wird nicht gesendet.
+
+### 4. Testkriterien definieren ###
