@@ -1,4 +1,4 @@
-## Altersverifikation ##
+## Altersverifikation, getestet am 27.07.2026 ##
 
 ### Testfall 1: Erfolgreiche Altersverifikation 18. Geburtstag (Grenzwert)
 
@@ -50,4 +50,21 @@ Bemerkung: Erwartetes Ergebnis ist nicht eingetreten. Leeres Eingabefeld für da
 <img width="889" height="386" alt="Screenshot 2026-07-27 142104" src="https://github.com/user-attachments/assets/34f11c0a-875a-41fb-83eb-e6789cc9a58c" />
 <img width="648" height="329" alt="Screenshot 2026-07-27 150814" src="https://github.com/user-attachments/assets/b9e295bd-31d3-4125-84dd-961de3f0ecdd" />
 <img width="659" height="316" alt="Screenshot 2026-07-27 143944" src="https://github.com/user-attachments/assets/d5b8b462-47d6-4505-b966-caf641db1b56" />
+
+## Versandkosten (keine Versandkosten ab einem Bestellwert von 50€) ##
+
+### Testfall 1: Anpassung der Versandkosten
+
+Bemerkung: Die Altersverifikation ist normalerweise vor dem Shopzugriff erforderlich. 
+Für den Test ist ein Login erforderlich. 
+| Schritt | Aktion                                                                                                 | Erwartetes Ergebnis                                                                                                       | Ok/NOK | URL | Link to Issue |
+| :--- |:-------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------| :--- | :--- | :--- |
+| 1 | Klicke in der oberen blauen Navigationsleiste auf „SHOP“.                                              | Die Produktauswahl wird fehlerfrei geöffnet.                                                                              |OK |https://grocerymate.masterschool.com/store
+ | |
+| 2 | Füge dem Warenkorb Produkte hinzu (über „Add to Cart“), bis der Gesamtwert der Artikel über 20€ liegt. | Die Produkte werden dem Warenkorb hinzugefügt und die Gesamtsumme steigt.                                                 |OK | | |
+| 3 | Klicke auf das Warenkorb-Symbol oben rechts.                                                           | Der Warenkorb öffnet sich, zeigt die Artikel und die Versandkosten werden korrekt mit 0€ (versandkostenfrei) ausgewiesen. | | | |
+| 4 | Entferne im Warenkorb so viele Artikel, bis der Gesamtwert der verbleibenden Produkte unter 20€ fällt. | Die Artikel werden entfernt, die Gesamtsumme sinkt und die Versandkosten werden automatisch auf 5,00 € angepasst.         | | | |
+
+<img width="901" height="427" alt="Screenshot 2026-07-27 151727" src="https://github.com/user-attachments/assets/0898dfff-acdd-4f31-b81c-70285f1bdb8c" />
+
 
